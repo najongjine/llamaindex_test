@@ -1,0 +1,14 @@
+# LlamaIndex 코어 및 플러그인
+llama-index
+llama-index-core
+llama-index-llms-gemini
+llama-index-embeddings-huggingface
+
+# Hugging Face 및 Torch 관련 (ebind-full 구동용)
+transformers
+torch
+einops
+accelerate
+
+# 환경변수 관리
+python-dotenv
